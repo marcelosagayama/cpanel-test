@@ -1,0 +1,5 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/userdevshin/public_html/
+ - /bin/mv /home/userdevshin/public_html /home/userdevshin/public_html_01
