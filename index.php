@@ -1,1 +1,1 @@
-<? echo "Hello Dev 5!"; ?>
+<? echo "Hello Dev 6!"; ?>
